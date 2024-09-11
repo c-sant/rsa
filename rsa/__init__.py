@@ -4,3 +4,5 @@ __authors__ = {
     "Guilherme Dias": "081200007",
     "Caio Rodrigues": "081200011",
 }
+
+from .cryptography import encrypt, decrypt
