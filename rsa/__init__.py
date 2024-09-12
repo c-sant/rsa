@@ -5,4 +5,5 @@ __authors__ = {
     "Caio Rodrigues": "081200011",
 }
 
-from .cryptography import encrypt, decrypt
+from .cryptography import decrypt, encrypt
+from .keys import generate_keys
